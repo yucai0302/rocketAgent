@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hancks火箭Agent</title>
+    <!-- Ant Design CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/antd/4.24.15/antd.min.css">
+    <!-- 自定义样式 -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- 代码高亮 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github.min.css">
+    <!-- 图标 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/python.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- 侧边栏 -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <button id="new-chat-btn" class="new-chat-btn">
+                    <i class="fas fa-plus"></i>
+                    新对话
+                </button>
+            </div>
+            <div id="conversation-list" class="conversation-list">
+                <!-- 对话历史记录将在这里动态添加 -->
+            </div>
+        </div>
+
+        <!-- 主聊天区域 -->
+        <div class="chat-container">
+            <div class="chat-content">
+                <div id="chat-messages" class="chat-messages">
+                    <!-- 消息将在这里动态添加 -->
+                </div>
+                <div class="chat-input-container">
+                    <div class="input-wrapper">
+                        <div class="model-selector">
+                            <select id="model-select" class="model-select">
+                                <option value="deepseek-chat-v3">DeepSeek Chat V3</option>
+                                <option value="deepseek-chat-r1">DeepSeek Chat R1</option>
+                            </select>
+                        </div>
+                        <textarea id="user-input" placeholder="输入您的问题..." rows="1"></textarea>
+                        <button id="send-button" class="send-button">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 删除确认对话框 -->
+    <div id="delete-modal" class="ant-modal-root">
+        <div class="ant-modal-mask"></div>
+        <div class="ant-modal-wrap">
+            <div class="ant-modal">
+                <div class="ant-modal-content">
+                    <div class="ant-modal-header">
+                        <div class="ant-modal-title">确认删除</div>
+                        <button class="ant-modal-close">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div class="ant-modal-body">
+                        确定要删除这个对话吗？此操作不可恢复。
+                    </div>
+                    <div class="ant-modal-footer">
+                        <button id="cancel-delete" class="ant-btn">取消</button>
+                        <button id="confirm-delete" class="ant-btn ant-btn-danger">删除</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html> 
