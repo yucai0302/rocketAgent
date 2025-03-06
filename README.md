@@ -1,6 +1,6 @@
-# AI 问答助手
+# rocketAgent
 
-一个基于 GPT-4 的智能问答系统，支持上下文对话。
+一个基于 deepseek v3/r1 的agent，持续迭代中
 
 ## 功能特点
 
