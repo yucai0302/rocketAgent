@@ -29,10 +29,11 @@ socketio = SocketIO(app,
     engineio_logger=True
 )  # 使用 threading 作为异步模式
 
-# OpenAI API configuration
-#openai.api_key = os.getenv('DEEPSEEK_API_KEY')
-deepseek_api_key = os.getenv('DEEPSEEK_API_KEY')
-client = OpenAI(api_key=deepseek_api_key, base_url="https://api.deepseek.com")
+# 初始化OpenAI客户端
+client = OpenAI(
+    api_key=os.getenv('DEEPSEEK_API_KEY'),
+    base_url="https://api.deepseek.com/v1"
+)
 
 # 存储聊天记录
 chat_history = {}
@@ -202,47 +203,55 @@ def handle_message(data):
             print(f"Updated conversation title to: {title}")
     
     try:
-        # 打印当前使用的 API key（仅显示前几个字符）
-        api_key = deepseek_api_key
-        print(f"Using DeepSeek API key: {api_key[:8]}...")
-        print(f"Using model: {model}")
-        
-        # 获取对话历史记录，最多取最近10条
-        messages = []
-        # 添加系统消息
-        messages.append({"role": "system", "content": "You are a helpful assistant"})
-        
-        if session_id in chat_history:
-            messages.extend(chat_history[session_id][-10:])  # 最多取最近10条记录
-        
-        # 根据选择的模型调用不同的 API
-        try:
-            if model == "deepseek-chat-r1":
-                # 调用 R1 模型 API
-                response = client.chat.completions.create(
-                    model="deepseek-reasoner",
-                    messages=messages,
-                    temperature=0.7,
-                    max_tokens=1000
-                )
-                
-                # 获取响应内容和思维链
-                ai_response = response.choices[0].message.content
-                reasoning_content = getattr(response.choices[0].message, 'reasoning_content', None)
-                print("Reasoning content:", reasoning_content)
-            else:
-                # 调用 V3 模型 API
-                response = client.chat.completions.create(
-                    model="deepseek-chat",
-                    messages=messages,
-                    temperature=0.7,
-                    max_tokens=1000
-                )
-                ai_response = response.choices[0].message.content
-                reasoning_content = None
-        except Exception as api_error:
-            print(f"API Error: {str(api_error)}")
-            raise Exception(f"API调用失败: {str(api_error)}")
+        # 如果选择了RocketTrend模型，调用爬虫获取热搜数据
+        if model == "rockettrend":
+            from crawler import get_hot_trends
+            ai_response = get_hot_trends()
+            reasoning_content = None
+        else:
+            # 打印当前使用的 API key（仅显示前几个字符）
+            api_key = os.getenv('DEEPSEEK_API_KEY')
+            if not api_key:
+                raise Exception("DEEPSEEK_API_KEY environment variable is not set")
+            print(f"Using DeepSeek API key: {api_key[:8]}...")
+            print(f"Using model: {model}")
+            
+            # 获取对话历史记录，最多取最近10条
+            messages = []
+            # 添加系统消息
+            messages.append({"role": "system", "content": "You are a helpful assistant"})
+            
+            if session_id in chat_history:
+                messages.extend(chat_history[session_id][-10:])  # 最多取最近10条记录
+            
+            # 根据选择的模型调用不同的 API
+            try:
+                if model == "deepseek-chat-r1":
+                    # 调用 R1 模型 API
+                    response = client.chat.completions.create(
+                        model="deepseek-reasoner",
+                        messages=messages,
+                        temperature=0.7,
+                        max_tokens=1000
+                    )
+                    
+                    # 获取响应内容和思维链
+                    ai_response = response.choices[0].message.content
+                    reasoning_content = getattr(response.choices[0].message, 'reasoning_content', None)
+                    print("Reasoning content:", reasoning_content)
+                else:
+                    # 调用 V3 模型 API
+                    response = client.chat.completions.create(
+                        model="deepseek-chat",
+                        messages=messages,
+                        temperature=0.7,
+                        max_tokens=1000
+                    )
+                    ai_response = response.choices[0].message.content
+                    reasoning_content = None
+            except Exception as api_error:
+                print(f"API Error: {str(api_error)}")
+                raise Exception(f"API调用失败: {str(api_error)}")
         
         if not ai_response:
             raise Exception("Empty response from DeepSeek API")

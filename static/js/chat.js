@@ -314,8 +314,14 @@ document.addEventListener('DOMContentLoaded', () => {
         let avatar = '🐰'; // 默认用户头像
         
         if (type === 'assistant') {
-            // 根据是否有思维链内容来判断是哪个模型
-            avatar = reasoning_content ? '🚀' : '🤖';
+            // 检查当前选择的模型
+            const currentModel = document.getElementById('model-select').value;
+            if (currentModel === 'rockettrend') {
+                avatar = '🔍';
+            } else {
+                // 根据是否有思维链内容来判断是哪个模型
+                avatar = reasoning_content ? '🚀' : '🤖';
+            }
         } else if (type === 'system') {
             avatar = '🤖';
         }
@@ -427,4 +433,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 初始化时更新输入框位置
     updateInputPosition();
-}); 
+});

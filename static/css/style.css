@@ -750,4 +750,243 @@ pre code {
 .chat-input-container.new-chat #user-input:focus {
     border-color: var(--primary-color);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 热搜榜单样式 */
+.hot-trends-section {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 16px;
+}
+
+.hot-trends-title {
+    color: #222;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 12px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    align-items: center;
+}
+
+.hot-trends-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: trend-counter;
+}
+
+.hot-trends-list li {
+    counter-increment: trend-counter;
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+    line-height: 1.4;
+}
+
+.hot-trends-list li:before {
+    content: counter(trend-counter);
+    min-width: 20px;
+    margin-right: 12px;
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+}
+
+.hot-trends-list li:nth-child(-n+3):before {
+    color: #f26e5f;
+    font-weight: 600;
+}
+
+.hot-trend-item {
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: color 0.2s ease;
+}
+
+.hot-trend-item:hover {
+    color: #406eeb;
+}
+
+.weibo-trends .hot-trends-title {
+    color: #eb7350;
+}
+
+.toutiao-trends .hot-trends-title {
+    color: #ed4040;
 } 
+.hot-trends-section {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 16px;
+}
+
+.hot-trends-title {
+    color: #222;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 12px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    align-items: center;
+}
+
+.hot-trends-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: trend-counter;
+}
+
+.hot-trends-list li {
+    counter-increment: trend-counter;
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+    line-height: 1.4;
+}
+
+.hot-trends-list li:before {
+    content: counter(trend-counter);
+    min-width: 20px;
+    margin-right: 12px;
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+}
+
+.hot-trends-list li:nth-child(-n+3):before {
+    color: #f26e5f;
+    font-weight: 600;
+}
+
+.hot-trend-item {
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: color 0.2s ease;
+}
+
+.hot-trend-item:hover {
+    color: #406eeb;
+}
+
+.weibo-trends .hot-trends-title {
+    color: #eb7350;
+}
+
+.toutiao-trends .hot-trends-title {
+    color: #ed4040;
+}
+
+.chat-input-container.new-chat::before {
+    content: none;
+}
+
+/* 恢复输入框样式 */
+.chat-input-container.new-chat {
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 50%);
+}
+
+.chat-input-container.new-chat .input-wrapper {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.chat-input-container.new-chat #user-input {
+    background: #fff;
+    border-color: var(--border-color);
+    color: var(--text-color);
+}
+
+.chat-input-container.new-chat #user-input:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 热搜榜单样式 */
+.hot-trends-section {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 16px;
+}
+
+.hot-trends-title {
+    color: #222;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 12px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    align-items: center;
+}
+
+.hot-trends-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: trend-counter;
+}
+
+.hot-trends-list li {
+    counter-increment: trend-counter;
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+    line-height: 1.4;
+}
+
+.hot-trends-list li:before {
+    content: counter(trend-counter);
+    min-width: 20px;
+    margin-right: 12px;
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+}
+
+.hot-trends-list li:nth-child(-n+3):before {
+    color: #f26e5f;
+    font-weight: 600;
+}
+
+.hot-trend-item {
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: color 0.2s ease;
+}
+
+.hot-trend-item:hover {
+    color: #406eeb;
+}
+
+.weibo-trends .hot-trends-title {
+    color: #eb7350;
+}
+
+.toutiao-trends .hot-trends-title {
+    color: #ed4040;
+}

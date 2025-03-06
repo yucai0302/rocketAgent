@@ -420,8 +420,469 @@
   },
   "25": {
     "id": "25",
-    "title": "新对话 25",
-    "timestamp": "2025-03-04T17:54:45.731405",
-    "messages": []
+    "title": "简短输出保时捷车型类别",
+    "timestamp": "2025-03-05T11:04:08.400925",
+    "messages": [
+      {
+        "message": "简短输出保时捷车型类别",
+        "type": "user",
+        "timestamp": "2025-03-05T11:04:08.395906"
+      },
+      {
+        "message": "<p>保时捷车型主要分为以下几类：</p>\n\n<ol>\n<li><strong>跑车</strong>：911、718（Boxster、Cayman）</li>\n<li><strong>SUV</strong>：Cayenne、Macan</li>\n<li><strong>四门轿跑</strong>：Panamera</li>\n<li><strong>电动跑车</strong>：Taycan</li>\n<li><strong>超级跑车</strong>：918 Spyder（限量版）</li>\n</ol>\n\n<p>每款车型都有其独特的设计和性能特点。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T11:04:27.412778"
+      }
+    ],
+    "model": "deepseek-chat-v3"
+  },
+  "26": {
+    "id": "26",
+    "title": "简短回答911车型",
+    "timestamp": "2025-03-04T18:29:14.206425",
+    "messages": [
+      {
+        "message": "简短回答911车型",
+        "type": "user",
+        "timestamp": "2025-03-04T18:29:14.201618"
+      },
+      {
+        "message": "<p>911是保时捷（Porsche）公司生产的一款经典跑车，自1964年推出以来，以其独特的设计和卓越的性能闻名。911车型采用后置发动机布局，提供多种版本，包括Carrera、Turbo、GT3等，满足不同驾驶需求。它是跑车界的标志性车型之一。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-04T18:29:25.242891"
+      }
+    ],
+    "model": "deepseek-chat-v3"
+  },
+  "31": {
+    "id": "31",
+    "title": "新对话 29",
+    "timestamp": "2025-03-05T11:05:22.360337",
+    "messages": [],
+    "model": "deepseek-chat-v3"
+  },
+  "32": {
+    "id": "32",
+    "title": "新对话 30",
+    "timestamp": "2025-03-05T11:05:23.719767",
+    "messages": [],
+    "model": "deepseek-chat-v3"
+  },
+  "33": {
+    "id": "33",
+    "title": "新对话 31",
+    "timestamp": "2025-03-05T11:05:24.303396",
+    "messages": [],
+    "model": "deepseek-chat-v3"
+  },
+  "34": {
+    "id": "34",
+    "title": "新对话 32",
+    "timestamp": "2025-03-05T11:09:20.135016",
+    "messages": [],
+    "model": "deepseek-chat-v3"
+  },
+  "35": {
+    "id": "35",
+    "title": "新对话 33",
+    "timestamp": "2025-03-05T11:09:22.747914",
+    "messages": [],
+    "model": "deepseek-chat-v3"
+  },
+  "30": {
+    "id": "30",
+    "title": "新对话 30",
+    "timestamp": "2025-03-05T11:09:41.700463",
+    "messages": [],
+    "model": "deepseek-chat-v3"
+  },
+  "36": {
+    "id": "36",
+    "title": "如何评价保时捷",
+    "timestamp": "2025-03-05T11:09:54.238966",
+    "messages": [
+      {
+        "message": "如何评价保时捷",
+        "type": "user",
+        "timestamp": "2025-03-05T11:09:54.238954"
+      },
+      {
+        "message": "<p>保时捷（Porsche）是一家享誉全球的德国豪华汽车制造商，以其高性能跑车、豪华SUV和赛车技术而闻名。以下是对保时捷的几个方面的评价：</p>\n\n<h3>1. <strong>品牌历史与传承</strong></h3>\n\n<ul>\n<li>保时捷成立于1931年，由费迪南德·保时捷（Ferdinand Porsche）创立，最初以设计咨询公司起家，后来逐渐发展成为一家独立的汽车制造商。</li>\n<li>保时捷的经典车型如911系列自1964年推出以来，一直是跑车界的标杆，具有极高的品牌辨识度和历史传承。</li>\n</ul>\n\n<h3>2. <strong>设计与工程</strong></h3>\n\n<ul>\n<li><strong>设计美学</strong>：保时捷的设计以简洁、优雅和功能性著称，尤其是911系列的后置发动机布局和流线型车身设计，成为了品牌的标志性特征。</li>\n<li><strong>工程技术</strong>：保时捷在汽车工程领域有着深厚的技术积累，尤其是在空气动力学、轻量化材料和动力系统方面。其车型在操控性、动力输出和驾驶体验上表现出色。</li>\n</ul>\n\n<h3>3. <strong>性能与驾驶体验</strong></h3>\n\n<ul>\n<li>保时捷的车型以卓越的驾驶性能著称，无论是跑车（如911、718 Boxster/Cayman）还是SUV（如Cayenne、Macan），都提供了极佳的操控性和动力表现。</li>\n<li>保时捷的赛车基因也深深植根于其量产车中，许多技术直接来源于其勒芒24小时耐力赛等赛事的经验。</li>\n</ul>\n\n<h3>4. <strong>豪华与品质</strong></h3>\n\n<ul>\n<li>保时捷的内饰设计注重细节和材质的选择，提供了高端的豪华感。无论是皮革、金属还是碳纤维的使用，都体现了极高的工艺水平。</li>\n<li>保时捷的车辆在质量控制和可靠性方面也享有良好的声誉，尽管其维护和保养成本较高，但车辆的耐用性和保值率也相对较高。</li>\n</ul>\n\n<h3>5. <strong>市场定位与价格</strong></h3>\n\n<ul>\n<li>保时捷定位于高端豪华市场，价格相对较高，但其品牌溢价和产品性能使其在豪华车市场中占据重要地位。</li>\n<li>近年来，保时捷推出了更多面向大众市场的车型（如Macan），扩大了其客户群体，但依然保持了品牌的高端形象。</li>\n</ul>\n\n<h3>6. <strong>电动化与未来</strong></h3>\n\n<ul>\n<li>保时捷在电动化领域也走在前列，推出了Taycan纯电动跑车，展示了其在新能源技术上的实力。Taycan不仅性能出色，还保留了保时捷一贯的驾驶乐趣。</li>\n<li>保时捷计划在未来进一步扩大其电动车型阵容，并致力于可持续发展，体现了其对未来汽车行业的战略布局。</li>\n</ul>\n\n<h3>7. <strong>品牌忠诚度与社区</strong></h3>\n\n<ul>\n<li>保时捷拥有极高的品牌忠诚度，许多车主对保时捷的驾驶体验和品牌文化有着深厚的情感。</li>\n<li>保时捷车主社区活跃，品牌经常组织各种活动和赛事，增强了车主之间的互动和品牌认同感。</li>\n</ul>\n\n<h3>总结</h3>\n\n<p>保时捷是一个兼具历史传承、技术创新和豪华品质的汽车品牌。无论是从设计、性能还是品牌价值来看，保时捷都处于汽车行业的顶尖水平。尽管价格较高，但其卓越的驾驶体验和品牌魅力使其成为许多车迷和消费者的梦想之车。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T11:10:34.942421"
+      }
+    ],
+    "model": "deepseek-chat-v3"
+  },
+  "42": {
+    "id": "42",
+    "title": "1",
+    "timestamp": "2025-03-05T11:47:12.354969",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T11:45:47.008086"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=这场发布会干货满满一文速览\" class=\"title\" target=\"_blank\">这场发布会干货满满一文速览</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=周总理让C位给东风基地科技人员\" class=\"title\" target=\"_blank\">周总理让C位给东风基地科技人员</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=首场部长通道\" class=\"title\" target=\"_blank\">首场部长通道</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=余承东出牌了\" class=\"title\" target=\"_blank\">余承东出牌了</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=谁说中国人不能制定国际标准\" class=\"title\" target=\"_blank\">谁说中国人不能制定国际标准</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=微信再次瘦身\" class=\"title\" target=\"_blank\">微信再次瘦身</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=推进双一流高校本科扩容\" class=\"title\" target=\"_blank\">推进双一流高校本科扩容</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=教育部部长回应DeepSeek热\" class=\"title\" target=\"_blank\">教育部部长回应DeepSeek热</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=鞠婧祎起诉丝芭将开庭\" class=\"title\" target=\"_blank\">鞠婧祎起诉丝芭将开庭</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=迪奥认领迪丽热巴刘雨昕\" class=\"title\" target=\"_blank\">迪奥认领迪丽热巴刘雨昕</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=人大会议开幕会\" class=\"title\" target=\"_blank\">人大会议开幕会</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=冯远征说DeepSeek写剧本缺乏人的温度\" class=\"title\" target=\"_blank\">冯远征说DeepSeek写剧本缺乏人的温度</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=近60%高中生在县级中学\" class=\"title\" target=\"_blank\">近60%高中生在县级中学</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=林一开启内娱拼命式剧宣新赛道\" class=\"title\" target=\"_blank\">林一开启内娱拼命式剧宣新赛道</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=金智秀卢浮宫慈善晚宴\" class=\"title\" target=\"_blank\">金智秀卢浮宫慈善晚宴</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=IU朴宝剑新剧发布会\" class=\"title\" target=\"_blank\">IU朴宝剑新剧发布会</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=消毒级卫生巾呵护女性经期健康\" class=\"title\" target=\"_blank\">消毒级卫生巾呵护女性经期健康</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=中国今年GDP目标为增长5%左右\" class=\"title\" target=\"_blank\">中国今年GDP目标为增长5%左右</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=这场发布会信息量很大\" class=\"title\" target=\"_blank\">这场发布会信息量很大</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=爸爸把房车开到校门口让高三女儿休息\" class=\"title\" target=\"_blank\">爸爸把房车开到校门口让高三女儿休息</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=首场“部长通道”开启\" class=\"title\" target=\"_blank\">首场“部长通道”开启</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：逐步推行免费学前教育\" class=\"title\" target=\"_blank\">政府工作报告：逐步推行免费学前教育</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=春雷始鸣 万象竞发\" class=\"title\" target=\"_blank\">春雷始鸣 万象竞发</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=女子盗录哪吒2被罚1.5万\" class=\"title\" target=\"_blank\">女子盗录哪吒2被罚1.5万</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=特朗普国会讲话遭民主党议员抗议\" class=\"title\" target=\"_blank\">特朗普国会讲话遭民主党议员抗议</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=美国打响全面贸易战 美股集体收跌\" class=\"title\" target=\"_blank\">美国打响全面贸易战 美股集体收跌</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=董明珠称已有接班人选但保密\" class=\"title\" target=\"_blank\">董明珠称已有接班人选但保密</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=雷军率先亮相首场代表通道\" class=\"title\" target=\"_blank\">雷军率先亮相首场代表通道</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=问界M9将于3月上市\" class=\"title\" target=\"_blank\">问界M9将于3月上市</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=特朗普在国会联席会议上发表讲话\" class=\"title\" target=\"_blank\">特朗普在国会联席会议上发表讲话</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=官方：制定促进生育政策发放育儿补贴\" class=\"title\" target=\"_blank\">官方：制定促进生育政策发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=加拿大宣布对美产品征25%报复性关税\" class=\"title\" target=\"_blank\">加拿大宣布对美产品征25%报复性关税</a></div></div></div><div class=\"update-time\">更新时间：2025-03-05T11:45:47.451932</div></div>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T11:45:47.458915"
+      },
+      {
+        "message": "如何看待头条热榜第20条",
+        "type": "user",
+        "timestamp": "2025-03-05T11:46:09.289296"
+      },
+      {
+        "message": "<p>今日头条热榜第20条提到的“加拿大宣布对美产品征25%报复性关税”这一事件，反映了国际贸易中的紧张局势和国与国之间的经济博弈。加拿大此举是对美国此前对加拿大钢铝产品加征关税的回应，显示了国际贸易中常见的“以牙还牙”策略。</p>\n\n<p>在国际贸易中，关税是一种常见的贸易壁垒，国家通过调整关税来保护本国产业，或者作为对外政策的工具。然而，过度的关税战可能导致贸易伙伴之间的紧张关系升级，影响全球贸易的稳定性和可预测性。</p>\n\n<p>对于消费者和企业来说，关税的增加通常意味着商品成本的上升，这可能会转嫁到消费者身上，导致物价上涨。同时，出口企业可能会因为目标市场的关税壁垒而面临销售困难，影响其国际竞争力。</p>\n\n<p>从长远来看，持续的贸易摩擦可能会促使各国寻求多元化的贸易伙伴，减少对单一市场的依赖，同时也可能加速区域贸易协定的谈判和签署，以降低贸易壁垒，促进经济合作。</p>\n\n<p>总的来说，国际贸易中的关税政策是一个复杂的问题，需要各国政府权衡利弊，寻求平衡点，以促进经济的健康发展。同时，这也提醒我们，全球化的经济体系需要各国之间的合作与对话，以解决贸易争端，维护多边贸易体系的稳定。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T11:46:27.659029"
+      },
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T11:47:12.354949"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=这场发布会干货满满一文速览\" class=\"title\" target=\"_blank\">这场发布会干货满满一文速览</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=2025全国两会热点速递\" class=\"title\" target=\"_blank\">2025全国两会热点速递</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=周总理让C位给东风基地科技人员\" class=\"title\" target=\"_blank\">周总理让C位给东风基地科技人员</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=首场部长通道\" class=\"title\" target=\"_blank\">首场部长通道</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=余承东出牌了\" class=\"title\" target=\"_blank\">余承东出牌了</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=谁说中国人不能制定国际标准\" class=\"title\" target=\"_blank\">谁说中国人不能制定国际标准</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=微信再次瘦身\" class=\"title\" target=\"_blank\">微信再次瘦身</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=推进双一流高校本科扩容\" class=\"title\" target=\"_blank\">推进双一流高校本科扩容</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=教育部部长回应DeepSeek热\" class=\"title\" target=\"_blank\">教育部部长回应DeepSeek热</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=迪奥认领迪丽热巴刘雨昕\" class=\"title\" target=\"_blank\">迪奥认领迪丽热巴刘雨昕</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=鞠婧祎起诉丝芭将开庭\" class=\"title\" target=\"_blank\">鞠婧祎起诉丝芭将开庭</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=人大会议开幕会\" class=\"title\" target=\"_blank\">人大会议开幕会</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=冯远征说DeepSeek写剧本缺乏人的温度\" class=\"title\" target=\"_blank\">冯远征说DeepSeek写剧本缺乏人的温度</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=近60%高中生在县级中学\" class=\"title\" target=\"_blank\">近60%高中生在县级中学</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=全专业学生都被打包签走老师笑傻了\" class=\"title\" target=\"_blank\">全专业学生都被打包签走老师笑傻了</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=IU朴宝剑新剧发布会\" class=\"title\" target=\"_blank\">IU朴宝剑新剧发布会</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=林一开启内娱拼命式剧宣新赛道\" class=\"title\" target=\"_blank\">林一开启内娱拼命式剧宣新赛道</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=中国今年GDP目标为增长5%左右\" class=\"title\" target=\"_blank\">中国今年GDP目标为增长5%左右</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=这场发布会信息量很大\" class=\"title\" target=\"_blank\">这场发布会信息量很大</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=爸爸把房车开到校门口让高三女儿休息\" class=\"title\" target=\"_blank\">爸爸把房车开到校门口让高三女儿休息</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=首场“部长通道”开启\" class=\"title\" target=\"_blank\">首场“部长通道”开启</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：逐步推行免费学前教育\" class=\"title\" target=\"_blank\">政府工作报告：逐步推行免费学前教育</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=春雷始鸣 万象竞发\" class=\"title\" target=\"_blank\">春雷始鸣 万象竞发</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=女子盗录哪吒2被罚1.5万\" class=\"title\" target=\"_blank\">女子盗录哪吒2被罚1.5万</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=特朗普国会讲话遭民主党议员抗议\" class=\"title\" target=\"_blank\">特朗普国会讲话遭民主党议员抗议</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=美国打响全面贸易战 美股集体收跌\" class=\"title\" target=\"_blank\">美国打响全面贸易战 美股集体收跌</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=官方：制定促进生育政策发放育儿补贴\" class=\"title\" target=\"_blank\">官方：制定促进生育政策发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=女生学朋友翻栏杆直接摔倒在地\" class=\"title\" target=\"_blank\">女生学朋友翻栏杆直接摔倒在地</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=雷军率先亮相首场代表通道\" class=\"title\" target=\"_blank\">雷军率先亮相首场代表通道</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=特朗普在国会联席会议上发表讲话\" class=\"title\" target=\"_blank\">特朗普在国会联席会议上发表讲话</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=问界M9将于3月上市\" class=\"title\" target=\"_blank\">问界M9将于3月上市</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=雷军称要特别感谢北京这片沃土\" class=\"title\" target=\"_blank\">雷军称要特别感谢北京这片沃土</a></div></div></div><div class=\"update-time\">更新时间：2025-03-05T11:47:12.944728</div></div>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T11:47:12.946546"
+      }
+    ],
+    "model": "rocket-trend"
+  },
+  "37": {
+    "id": "37",
+    "title": "1",
+    "timestamp": "2025-03-05T14:20:13.349898",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T14:10:57.712217"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\" class=\"title\" target=\"_blank\">雷军称去年每卖七部手机就有一部小米</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=2025中国发展主要预期目标\" class=\"title\" target=\"_blank\">2025中国发展主要预期目标</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=难哄 魔改\" class=\"title\" target=\"_blank\">难哄 魔改</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=幸福就是给员工涨工资\" class=\"title\" target=\"_blank\">幸福就是给员工涨工资</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=温以凡再次离开桑延\" class=\"title\" target=\"_blank\">温以凡再次离开桑延</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=警方辟谣男子发视频称钓到手雷\" class=\"title\" target=\"_blank\">警方辟谣男子发视频称钓到手雷</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=近60%高中生在县级中学\" class=\"title\" target=\"_blank\">近60%高中生在县级中学</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=全专业学生都被打包签走老师笑傻了\" class=\"title\" target=\"_blank\">全专业学生都被打包签走老师笑傻了</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=孙颖莎短跑成绩接近男选手\" class=\"title\" target=\"_blank\">孙颖莎短跑成绩接近男选手</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=难哄 瞿友宁\" class=\"title\" target=\"_blank\">难哄 瞿友宁</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=方大同录音\" class=\"title\" target=\"_blank\">方大同录音</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=张继科回应挑战王曼昱\" class=\"title\" target=\"_blank\">张继科回应挑战王曼昱</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=小孩哥喊话雷军出一款全家出行的车\" class=\"title\" target=\"_blank\">小孩哥喊话雷军出一款全家出行的车</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=周总理让C位给东风基地科技人员\" class=\"title\" target=\"_blank\">周总理让C位给东风基地科技人员</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=于适起诉disco雨索赔20万\" class=\"title\" target=\"_blank\">于适起诉disco雨索赔20万</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=温以凡扛桑延\" class=\"title\" target=\"_blank\">温以凡扛桑延</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=被大体老师震撼到了\" class=\"title\" target=\"_blank\">被大体老师震撼到了</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=恋爱兄妹综艺\" class=\"title\" target=\"_blank\">恋爱兄妹综艺</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=雷军说第一个接受采访有点小紧张\" class=\"title\" target=\"_blank\">雷军说第一个接受采访有点小紧张</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=今年GDP增长预期目标公布\" class=\"title\" target=\"_blank\">今年GDP增长预期目标公布</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=詹姆斯成NBA首位五万分先生\" class=\"title\" target=\"_blank\">詹姆斯成NBA首位五万分先生</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=特朗普重返白宫后首次国会演讲\" class=\"title\" target=\"_blank\">特朗普重返白宫后首次国会演讲</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：政府坚持过紧日子\" class=\"title\" target=\"_blank\">政府工作报告：政府坚持过紧日子</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=4组数据折射中国经济活力与韧性\" class=\"title\" target=\"_blank\">4组数据折射中国经济活力与韧性</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：逐步推行免费学前教育\" class=\"title\" target=\"_blank\">政府工作报告：逐步推行免费学前教育</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=万斯：我激怒了泽连斯基\" class=\"title\" target=\"_blank\">万斯：我激怒了泽连斯基</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=特朗普国会讲话遭民主党议员抗议\" class=\"title\" target=\"_blank\">特朗普国会讲话遭民主党议员抗议</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：整治“内卷式”竞争\" class=\"title\" target=\"_blank\">政府工作报告：整治“内卷式”竞争</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=解放军和武警部队代表团帅气入场\" class=\"title\" target=\"_blank\">解放军和武警部队代表团帅气入场</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=人大代表建议尽早实施12年义务教育\" class=\"title\" target=\"_blank\">人大代表建议尽早实施12年义务教育</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=美国打响全面贸易战 美股集体收跌\" class=\"title\" target=\"_blank\">美国打响全面贸易战 美股集体收跌</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=雷军：我们敢和全球最强对手比拼\" class=\"title\" target=\"_blank\">雷军：我们敢和全球最强对手比拼</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=问界M9将于3月上市\" class=\"title\" target=\"_blank\">问界M9将于3月上市</a></div></div></div><div class=\"platform-section\"><h2>Google Trends国际热点</h2><div class=\"topic-list\"></div></div><div class=\"update-time\">更新时间：2025-03-05T14:10:58.923675</div></div>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T14:10:58.930251"
+      },
+      {
+        "message": "国内查询金价",
+        "type": "user",
+        "timestamp": "2025-03-05T14:12:23.425441"
+      },
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T14:12:31.409523"
+      },
+      {
+        "message": "·",
+        "type": "user",
+        "timestamp": "2025-03-05T14:19:42.464873"
+      },
+      {
+        "message": "<p>It seems like you've entered a single character or symbol. How can I assist you today? If you have any questions or need information, feel free to ask!</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T14:19:51.881240"
+      },
+      {
+        "message": "国内查询金价",
+        "type": "user",
+        "timestamp": "2025-03-05T14:20:13.349889"
+      },
+      {
+        "message": "<p>要查询国内金价，您可以通过以下几种方式：</p>\n\n<ol>\n<li><p><strong>银行官网或APP</strong>：许多银行（如中国银行、工商银行、建设银行等）会提供实时的黄金价格信息，包括实物黄金、纸黄金等。</p></li>\n<li><p><strong>黄金交易所官网</strong>：上海黄金交易所（SGE）是国内权威的黄金交易平台，其官网会发布最新的黄金价格。</p></li>\n<li><p><strong>金融资讯平台</strong>：如新浪财经、东方财富网、同花顺等平台，通常会提供实时的黄金价格走势和相关信息。</p></li>\n<li><p><strong>珠宝店或黄金零售商</strong>：周大福、老凤祥等知名珠宝品牌也会公布当日的黄金零售价格。</p></li>\n<li><p><strong>搜索引擎</strong>：直接在百度、谷歌等搜索引擎中输入“今日金价”或“国内黄金价格”，通常会显示最新的金价信息。</p></li>\n</ol>\n\n<h3>今日金价参考（截至2023年10月）：</h3>\n\n<ul>\n<li><strong>现货黄金价格</strong>：约470元/克（具体价格以实时为准）。</li>\n<li><strong>纸黄金价格</strong>：略低于现货黄金价格，具体以银行报价为准。</li>\n</ul>\n\n<p>如果需要更详细的信息，可以告诉我具体需求，我会尽力帮您解答！</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T14:20:30.740084"
+      }
+    ],
+    "model": "deepseek-chat-v3"
+  },
+  "38": {
+    "id": "38",
+    "title": "1",
+    "timestamp": "2025-03-05T14:32:41.202360",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T14:32:41.202338"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\" class=\"title\" target=\"_blank\">雷军称去年每卖七部手机就有一部小米</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=我们的盛会花开中国\" class=\"title\" target=\"_blank\">我们的盛会花开中国</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=女子染发10多年最终选择与白发和解\" class=\"title\" target=\"_blank\">女子染发10多年最终选择与白发和解</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=温以凡再次离开桑延\" class=\"title\" target=\"_blank\">温以凡再次离开桑延</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=小孩哥喊话雷军出一款全家出行的车\" class=\"title\" target=\"_blank\">小孩哥喊话雷军出一款全家出行的车</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=近60%高中生在县级中学\" class=\"title\" target=\"_blank\">近60%高中生在县级中学</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=幸福就是给员工涨工资\" class=\"title\" target=\"_blank\">幸福就是给员工涨工资</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=孙颖莎短跑成绩接近男选手\" class=\"title\" target=\"_blank\">孙颖莎短跑成绩接近男选手</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=难哄 魔改\" class=\"title\" target=\"_blank\">难哄 魔改</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=方大同录音\" class=\"title\" target=\"_blank\">方大同录音</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=缅甸领导人访问俄罗斯\" class=\"title\" target=\"_blank\">缅甸领导人访问俄罗斯</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=难哄 瞿友宁\" class=\"title\" target=\"_blank\">难哄 瞿友宁</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=周总理让C位给东风基地科技人员\" class=\"title\" target=\"_blank\">周总理让C位给东风基地科技人员</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=张继科回应挑战王曼昱\" class=\"title\" target=\"_blank\">张继科回应挑战王曼昱</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=大二女学霸课余打3份工1年攒5万\" class=\"title\" target=\"_blank\">大二女学霸课余打3份工1年攒5万</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=于适起诉disco雨索赔20万\" class=\"title\" target=\"_blank\">于适起诉disco雨索赔20万</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=恋爱兄妹综艺\" class=\"title\" target=\"_blank\">恋爱兄妹综艺</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=温以凡扛桑延\" class=\"title\" target=\"_blank\">温以凡扛桑延</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=雷军说第一个接受采访有点小紧张\" class=\"title\" target=\"_blank\">雷军说第一个接受采访有点小紧张</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=今年GDP增长预期目标公布\" class=\"title\" target=\"_blank\">今年GDP增长预期目标公布</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：政府坚持过紧日子\" class=\"title\" target=\"_blank\">政府工作报告：政府坚持过紧日子</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=詹姆斯成NBA首位五万分先生\" class=\"title\" target=\"_blank\">詹姆斯成NBA首位五万分先生</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=特朗普重返白宫后首次国会演讲\" class=\"title\" target=\"_blank\">特朗普重返白宫后首次国会演讲</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=4组数据折射中国经济活力与韧性\" class=\"title\" target=\"_blank\">4组数据折射中国经济活力与韧性</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=霍启刚会议资料上都是七彩字\" class=\"title\" target=\"_blank\">霍启刚会议资料上都是七彩字</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=万斯：我激怒了泽连斯基\" class=\"title\" target=\"_blank\">万斯：我激怒了泽连斯基</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=人大代表建议尽早实施12年义务教育\" class=\"title\" target=\"_blank\">人大代表建议尽早实施12年义务教育</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：整治“内卷式”竞争\" class=\"title\" target=\"_blank\">政府工作报告：整治“内卷式”竞争</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：逐步推行免费学前教育\" class=\"title\" target=\"_blank\">政府工作报告：逐步推行免费学前教育</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=特朗普国会讲话遭民主党议员抗议\" class=\"title\" target=\"_blank\">特朗普国会讲话遭民主党议员抗议</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=问界M9将于3月上市\" class=\"title\" target=\"_blank\">问界M9将于3月上市</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=解放军和武警部队代表团帅气入场\" class=\"title\" target=\"_blank\">解放军和武警部队代表团帅气入场</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=我国将发布国家县中振兴行动计划\" class=\"title\" target=\"_blank\">我国将发布国家县中振兴行动计划</a></div></div></div><div class=\"platform-section\"><h2>Google Trends国际热点</h2><div class=\"topic-list\"></div></div><div class=\"update-time\">更新时间：2025-03-05T14:32:42.075028</div></div>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T14:32:42.081256"
+      }
+    ],
+    "model": "rocket-trend"
+  },
+  "39": {
+    "id": "39",
+    "title": "1",
+    "timestamp": "2025-03-05T14:48:39.011538",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T14:48:39.010266"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"market-section\"><h2>金融市场实时数据</h2><div class=\"gold-charts\"><h3>黄金价格走势</h3><div class=\"chart-tabs\"><button class=\"chart-tab active\" onclick=\"showChart('day')\">日线</button><button class=\"chart-tab\" onclick=\"showChart('month')\">月线</button><button class=\"chart-tab\" onclick=\"showChart('year')\">年线</button></div><div id=\"gold-chart-day\" class=\"chart-content active\">None</div><div id=\"gold-chart-month\" class=\"chart-content\">None</div><div id=\"gold-chart-year\" class=\"chart-content\">None</div></div></div><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=孙颖莎短跑成绩接近男选手\" class=\"title\" target=\"_blank\">孙颖莎短跑成绩接近男选手</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=我们的盛会花开中国\" class=\"title\" target=\"_blank\">我们的盛会花开中国</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=温以凡再次离开桑延\" class=\"title\" target=\"_blank\">温以凡再次离开桑延</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\" class=\"title\" target=\"_blank\">雷军称去年每卖七部手机就有一部小米</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=近60%高中生在县级中学\" class=\"title\" target=\"_blank\">近60%高中生在县级中学</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=大二女学霸课余打3份工1年攒5万\" class=\"title\" target=\"_blank\">大二女学霸课余打3份工1年攒5万</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=幸福就是给员工涨工资\" class=\"title\" target=\"_blank\">幸福就是给员工涨工资</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=十条措施提振消费\" class=\"title\" target=\"_blank\">十条措施提振消费</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=方大同录音\" class=\"title\" target=\"_blank\">方大同录音</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=周总理让C位给东风基地科技人员\" class=\"title\" target=\"_blank\">周总理让C位给东风基地科技人员</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=李宏毅发型\" class=\"title\" target=\"_blank\">李宏毅发型</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=痛经女性经期最好少吃甜食\" class=\"title\" target=\"_blank\">痛经女性经期最好少吃甜食</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=张继科回应挑战王曼昱\" class=\"title\" target=\"_blank\">张继科回应挑战王曼昱</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=于适起诉disco雨索赔20万\" class=\"title\" target=\"_blank\">于适起诉disco雨索赔20万</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=种地吧\" class=\"title\" target=\"_blank\">种地吧</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=恋爱兄妹综艺\" class=\"title\" target=\"_blank\">恋爱兄妹综艺</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=温以凡扛桑延\" class=\"title\" target=\"_blank\">温以凡扛桑延</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=MC梦考虑将公开SM录音\" class=\"title\" target=\"_blank\">MC梦考虑将公开SM录音</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：政府坚持过紧日子\" class=\"title\" target=\"_blank\">政府工作报告：政府坚持过紧日子</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=雷军说第一个接受采访有点小紧张\" class=\"title\" target=\"_blank\">雷军说第一个接受采访有点小紧张</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=今年GDP增长预期目标公布\" class=\"title\" target=\"_blank\">今年GDP增长预期目标公布</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=詹姆斯成NBA首位五万分先生\" class=\"title\" target=\"_blank\">詹姆斯成NBA首位五万分先生</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=人大代表建议尽早实施12年义务教育\" class=\"title\" target=\"_blank\">人大代表建议尽早实施12年义务教育</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=4组数据折射中国经济活力与韧性\" class=\"title\" target=\"_blank\">4组数据折射中国经济活力与韧性</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=霍启刚会议资料上都是七彩字\" class=\"title\" target=\"_blank\">霍启刚会议资料上都是七彩字</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=万斯：我激怒了泽连斯基\" class=\"title\" target=\"_blank\">万斯：我激怒了泽连斯基</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=特朗普重返白宫后首次国会演讲\" class=\"title\" target=\"_blank\">特朗普重返白宫后首次国会演讲</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：整治“内卷式”竞争\" class=\"title\" target=\"_blank\">政府工作报告：整治“内卷式”竞争</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：逐步推行免费学前教育\" class=\"title\" target=\"_blank\">政府工作报告：逐步推行免费学前教育</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=问界M9将于3月上市\" class=\"title\" target=\"_blank\">问界M9将于3月上市</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=雷军：小米SU7创造了一个小小的奇迹\" class=\"title\" target=\"_blank\">雷军：小米SU7创造了一个小小的奇迹</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=解放军和武警部队代表团帅气入场\" class=\"title\" target=\"_blank\">解放军和武警部队代表团帅气入场</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=特朗普国会讲话遭民主党议员抗议\" class=\"title\" target=\"_blank\">特朗普国会讲话遭民主党议员抗议</a></div></div></div>\n\n<pre><code>&lt;script&gt;\nfunction showChart(type) {\n    // 隐藏所有图表\n    document.querySelectorAll('.chart-content').forEach(chart =&gt; {\n        chart.classList.remove('active');\n    });\n    // 显示选中的图表\n    document.getElementById(`gold-chart-${type}`).classList.add('active');\n    // 更新按钮状态\n    document.querySelectorAll('.chart-tab').forEach(tab =&gt; {\n        tab.classList.remove('active');\n    });\n    document.querySelector(`.chart-tab[onclick*=\"'${type}'`).classList.add('active');\n}\n&lt;/script&gt;\n&lt;div class=\"update-time\"&gt;更新时间：2025-03-05T14:48:39.619071&lt;/div&gt;&lt;/div&gt;\n</code></pre>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T14:48:39.623892"
+      }
+    ],
+    "model": "rocket-trend"
+  },
+  "40": {
+    "id": "40",
+    "title": "1",
+    "timestamp": "2025-03-05T16:11:22.607294",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T16:11:22.607281"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"market-section\"><h2>金融市场实时数据</h2><div class=\"gold-charts\"><h3>黄金价格走势</h3><div class=\"chart-tabs\"><button class=\"chart-tab active\" onclick=\"showChart('日线')\">日线</button><button class=\"chart-tab\" onclick=\"showChart('月线')\">月线</button><button class=\"chart-tab\" onclick=\"showChart('年线')\">年线</button></div><div id=\"gold-chart-日线\" class=\"chart-content active\">None</div><div id=\"gold-chart-月线\" class=\"chart-content\">None</div><div id=\"gold-chart-年线\" class=\"chart-content\">None</div></div></div><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=政协委员冯远征用DeepSeek写剧本\" class=\"title\" target=\"_blank\">政协委员冯远征用DeepSeek写剧本</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=2025中国发展主要预期目标\" class=\"title\" target=\"_blank\">2025中国发展主要预期目标</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=虞书欣为了拍右脸无所不用其极\" class=\"title\" target=\"_blank\">虞书欣为了拍右脸无所不用其极</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=建议孕产服务免费\" class=\"title\" target=\"_blank\">建议孕产服务免费</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\" class=\"title\" target=\"_blank\">雷军称去年每卖七部手机就有一部小米</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=王者荣耀\" class=\"title\" target=\"_blank\">王者荣耀</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=孙颖莎短跑成绩接近男选手\" class=\"title\" target=\"_blank\">孙颖莎短跑成绩接近男选手</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=记者为了采访雷军有多努力\" class=\"title\" target=\"_blank\">记者为了采访雷军有多努力</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=红绿灯的黄\" class=\"title\" target=\"_blank\">红绿灯的黄</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=大二女学霸课余打3份工1年攒5万\" class=\"title\" target=\"_blank\">大二女学霸课余打3份工1年攒5万</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=Angelababy精彩OK双封\" class=\"title\" target=\"_blank\">Angelababy精彩OK双封</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=痛经女性经期最好少吃甜食\" class=\"title\" target=\"_blank\">痛经女性经期最好少吃甜食</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=建议对餐厅使用预制菜明确标注\" class=\"title\" target=\"_blank\">建议对餐厅使用预制菜明确标注</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=Younha官宣结婚\" class=\"title\" target=\"_blank\">Younha官宣结婚</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=杨紫全国巡跳\" class=\"title\" target=\"_blank\">杨紫全国巡跳</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=王安宇上海\" class=\"title\" target=\"_blank\">王安宇上海</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=谢娜 浪姐6\" class=\"title\" target=\"_blank\">谢娜 浪姐6</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=陈坤送锦旗感谢医生治愈左手指骨\" class=\"title\" target=\"_blank\">陈坤送锦旗感谢医生治愈左手指骨</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：政府坚持过紧日子\" class=\"title\" target=\"_blank\">政府工作报告：政府坚持过紧日子</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=雷军说第一个接受采访有点小紧张\" class=\"title\" target=\"_blank\">雷军说第一个接受采访有点小紧张</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=今年GDP增长预期目标公布\" class=\"title\" target=\"_blank\">今年GDP增长预期目标公布</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=30名学生刚毕业就被企业打包签走\" class=\"title\" target=\"_blank\">30名学生刚毕业就被企业打包签走</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=问界M9将于3月上市\" class=\"title\" target=\"_blank\">问界M9将于3月上市</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=4组数据折射中国经济活力与韧性\" class=\"title\" target=\"_blank\">4组数据折射中国经济活力与韧性</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=霍启刚会议资料上都是七彩字\" class=\"title\" target=\"_blank\">霍启刚会议资料上都是七彩字</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=特朗普称应废除美国芯片法案\" class=\"title\" target=\"_blank\">特朗普称应废除美国芯片法案</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：整治“内卷式”竞争\" class=\"title\" target=\"_blank\">政府工作报告：整治“内卷式”竞争</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=特朗普国会讲话遭民主党议员抗议\" class=\"title\" target=\"_blank\">特朗普国会讲话遭民主党议员抗议</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=稳住楼市股市首次写进政府工作报告\" class=\"title\" target=\"_blank\">稳住楼市股市首次写进政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=美国打响全面贸易战 美股集体收跌\" class=\"title\" target=\"_blank\">美国打响全面贸易战 美股集体收跌</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=雷军：小米SU7创造了一个小小的奇迹\" class=\"title\" target=\"_blank\">雷军：小米SU7创造了一个小小的奇迹</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：适时降准降息\" class=\"title\" target=\"_blank\">政府工作报告：适时降准降息</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=霍启刚谈DeepSeek\" class=\"title\" target=\"_blank\">霍启刚谈DeepSeek</a></div></div></div>\n\n<pre><code>&lt;script&gt;\nfunction showChart(type) {\n    // 隐藏所有图表\n    document.querySelectorAll('.chart-content').forEach(chart =&gt; {\n        chart.classList.remove('active');\n    });\n    // 显示选中的图表\n    document.getElementById(`gold-chart-${type}`).classList.add('active');\n    // 更新按钮状态\n    document.querySelectorAll('.chart-tab').forEach(tab =&gt; {\n        tab.classList.remove('active');\n    });\n    document.querySelector(`.chart-tab[onclick*=\"'${type}'\"]`).classList.add('active');\n}\n&lt;/script&gt;\n&lt;div class=\"update-time\"&gt;更新时间：2025-03-05T16:11:23.345218&lt;/div&gt;&lt;/div&gt;\n</code></pre>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T16:11:23.352931"
+      }
+    ],
+    "model": "rocket-trend"
+  },
+  "41": {
+    "id": "41",
+    "title": "1",
+    "timestamp": "2025-03-05T17:18:34.257281",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-05T17:17:56.084661"
+      },
+      {
+        "message": "<div class=\"hot-topics\"><div class=\"platform-section\"><h2>微博热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\" target=\"_blank\">发放育儿补贴</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\" class=\"title\" target=\"_blank\">雷军称去年每卖七部手机就有一部小米</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告里的KPI\" class=\"title\" target=\"_blank\">政府工作报告里的KPI</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://s.weibo.com/weibo?q=记者为了采访雷军有多努力\" class=\"title\" target=\"_blank\">记者为了采访雷军有多努力</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://s.weibo.com/weibo?q=难哄男二女二 台湾偶像剧\" class=\"title\" target=\"_blank\">难哄男二女二 台湾偶像剧</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://s.weibo.com/weibo?q=虞书欣为了拍右脸无所不用其极\" class=\"title\" target=\"_blank\">虞书欣为了拍右脸无所不用其极</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://s.weibo.com/weibo?q=政府工作报告\" class=\"title\" target=\"_blank\">政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://s.weibo.com/weibo?q=建议孕产服务免费\" class=\"title\" target=\"_blank\">建议孕产服务免费</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://s.weibo.com/weibo?q=谢娜 浪姐6\" class=\"title\" target=\"_blank\">谢娜 浪姐6</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://s.weibo.com/weibo?q=政协委员冯远征用DeepSeek写剧本\" class=\"title\" target=\"_blank\">政协委员冯远征用DeepSeek写剧本</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://s.weibo.com/weibo?q=红绿灯的黄\" class=\"title\" target=\"_blank\">红绿灯的黄</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://s.weibo.com/weibo?q=白鹿给王星越送花庆生\" class=\"title\" target=\"_blank\">白鹿给王星越送花庆生</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://s.weibo.com/weibo?q=董明珠称不跟雷军竞争\" class=\"title\" target=\"_blank\">董明珠称不跟雷军竞争</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://s.weibo.com/weibo?q=Younha官宣结婚\" class=\"title\" target=\"_blank\">Younha官宣结婚</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://s.weibo.com/weibo?q=建议破除就业唯学历论\" class=\"title\" target=\"_blank\">建议破除就业唯学历论</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://s.weibo.com/weibo?q=杨紫全国巡跳\" class=\"title\" target=\"_blank\">杨紫全国巡跳</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://s.weibo.com/weibo?q=痛经女性经期最好少吃甜食\" class=\"title\" target=\"_blank\">痛经女性经期最好少吃甜食</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://s.weibo.com/weibo?q=大二女学霸课余打3份工1年攒5万\" class=\"title\" target=\"_blank\">大二女学霸课余打3份工1年攒5万</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://s.weibo.com/weibo?q=景甜古装撑伞\" class=\"title\" target=\"_blank\">景甜古装撑伞</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://s.weibo.com/weibo?q=陈坤送锦旗感谢医生治愈左手指骨\" class=\"title\" target=\"_blank\">陈坤送锦旗感谢医生治愈左手指骨</a></div></div></div><div class=\"platform-section\"><h2>今日头条热搜榜</h2><div class=\"topic-list\"><div class=\"topic-item\"><span class=\"rank\">1</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：政府坚持过紧日子\" class=\"title\" target=\"_blank\">政府工作报告：政府坚持过紧日子</a></div><div class=\"topic-item\"><span class=\"rank\">2</span><a href=\"https://so.toutiao.com/search?keyword=雷军说第一个接受采访有点小紧张\" class=\"title\" target=\"_blank\">雷军说第一个接受采访有点小紧张</a></div><div class=\"topic-item\"><span class=\"rank\">3</span><a href=\"https://so.toutiao.com/search?keyword=一张图了解2025年政府工作报告\" class=\"title\" target=\"_blank\">一张图了解2025年政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">4</span><a href=\"https://so.toutiao.com/search?keyword=城乡居民基础养老金最低标准提高20元\" class=\"title\" target=\"_blank\">城乡居民基础养老金最低标准提高20元</a></div><div class=\"topic-item\"><span class=\"rank\">5</span><a href=\"https://so.toutiao.com/search?keyword=30名学生刚毕业就被企业打包签走\" class=\"title\" target=\"_blank\">30名学生刚毕业就被企业打包签走</a></div><div class=\"topic-item\"><span class=\"rank\">6</span><a href=\"https://so.toutiao.com/search?keyword=新郎接亲时女方家人一路鲜花相迎\" class=\"title\" target=\"_blank\">新郎接亲时女方家人一路鲜花相迎</a></div><div class=\"topic-item\"><span class=\"rank\">7</span><a href=\"https://so.toutiao.com/search?keyword=哪吒2新展：饺子手绘海报首亮相\" class=\"title\" target=\"_blank\">哪吒2新展：饺子手绘海报首亮相</a></div><div class=\"topic-item\"><span class=\"rank\">8</span><a href=\"https://so.toutiao.com/search?keyword=董明珠称不跟雷军竞争\" class=\"title\" target=\"_blank\">董明珠称不跟雷军竞争</a></div><div class=\"topic-item\"><span class=\"rank\">9</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告里的这些话 暖心提气！\" class=\"title\" target=\"_blank\">政府工作报告里的这些话 暖心提气！</a></div><div class=\"topic-item\"><span class=\"rank\">10</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告800字极简版\" class=\"title\" target=\"_blank\">政府工作报告800字极简版</a></div><div class=\"topic-item\"><span class=\"rank\">11</span><a href=\"https://so.toutiao.com/search?keyword=特朗普称应废除美国芯片法案\" class=\"title\" target=\"_blank\">特朗普称应废除美国芯片法案</a></div><div class=\"topic-item\"><span class=\"rank\">12</span><a href=\"https://so.toutiao.com/search?keyword=美国打响全面贸易战 美股集体收跌\" class=\"title\" target=\"_blank\">美国打响全面贸易战 美股集体收跌</a></div><div class=\"topic-item\"><span class=\"rank\">13</span><a href=\"https://so.toutiao.com/search?keyword=近60%高中生在县级中学\" class=\"title\" target=\"_blank\">近60%高中生在县级中学</a></div><div class=\"topic-item\"><span class=\"rank\">14</span><a href=\"https://so.toutiao.com/search?keyword=董明珠谈AI与一线生产人员的关系\" class=\"title\" target=\"_blank\">董明珠谈AI与一线生产人员的关系</a></div><div class=\"topic-item\"><span class=\"rank\">15</span><a href=\"https://so.toutiao.com/search?keyword=物业公司否认佛山百花广场不再经营\" class=\"title\" target=\"_blank\">物业公司否认佛山百花广场不再经营</a></div><div class=\"topic-item\"><span class=\"rank\">16</span><a href=\"https://so.toutiao.com/search?keyword=政府工作报告：整治“内卷式”竞争\" class=\"title\" target=\"_blank\">政府工作报告：整治“内卷式”竞争</a></div><div class=\"topic-item\"><span class=\"rank\">17</span><a href=\"https://so.toutiao.com/search?keyword=乌克兰回应美国暂停军援\" class=\"title\" target=\"_blank\">乌克兰回应美国暂停军援</a></div><div class=\"topic-item\"><span class=\"rank\">18</span><a href=\"https://so.toutiao.com/search?keyword=某公司诋毁鸿蒙智行 多人被逮捕\" class=\"title\" target=\"_blank\">某公司诋毁鸿蒙智行 多人被逮捕</a></div><div class=\"topic-item\"><span class=\"rank\">19</span><a href=\"https://so.toutiao.com/search?keyword=稳住楼市股市首次写进政府工作报告\" class=\"title\" target=\"_blank\">稳住楼市股市首次写进政府工作报告</a></div><div class=\"topic-item\"><span class=\"rank\">20</span><a href=\"https://so.toutiao.com/search?keyword=特朗普：将立即对加拿大增对等关税\" class=\"title\" target=\"_blank\">特朗普：将立即对加拿大增对等关税</a></div></div></div>\n\n<pre><code>&lt;script&gt;\nfunction showChart(type) {\n    // 隐藏所有图表\n    document.querySelectorAll('.chart-content').forEach(chart =&gt; {\n        chart.classList.remove('active');\n    });\n    // 显示选中的图表\n    document.getElementById(`gold-chart-${type}`).classList.add('active');\n    // 更新按钮状态\n    document.querySelectorAll('.chart-tab').forEach(tab =&gt; {\n        tab.classList.remove('active');\n    });\n    document.querySelector(`.chart-tab[onclick*=\"'${type}'\"]`).classList.add('active');\n}\n&lt;/script&gt;\n&lt;div class=\"update-time\"&gt;更新时间：2025-03-05T17:17:56.831860&lt;/div&gt;&lt;/div&gt;\n</code></pre>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T17:17:56.837655"
+      },
+      {
+        "message": "为什么输出了前端代码，怎么优化",
+        "type": "user",
+        "timestamp": "2025-03-05T17:18:34.257266"
+      },
+      {
+        "message": "<p>你提到的“输出了前端代码”可能是因为你在请求或处理数据时，直接返回了包含HTML、CSS和JavaScript的完整前端页面代码。这种情况通常发生在以下场景：</p>\n\n<ol>\n<li><strong>后端直接返回了渲染好的前端页面</strong>：比如使用服务器端渲染（SSR）时，后端返回的是完整的HTML页面。</li>\n<li><strong>API返回了错误的数据格式</strong>：比如API本应返回JSON数据，但实际返回了HTML页面。</li>\n<li><strong>前端代码被误认为是数据</strong>：比如在爬取网页时，获取到了网页的HTML源码。</li>\n</ol>\n\n<hr />\n\n<h3>如何优化？</h3>\n\n<h4>1. <strong>明确数据格式</strong></h4>\n\n<ul>\n<li>如果是API接口，确保返回的是结构化数据（如JSON），而不是HTML页面。</li>\n<li>示例：\n <pre><code class=\"language-json\">     {\n   \"status\": \"success\",\n   \"data\": {\n     \"topics\": [\n       {\"rank\": 1, \"title\": \"发放育儿补贴\", \"url\": \"https://s.weibo.com/weibo?q=发放育儿补贴\"},\n       {\"rank\": 2, \"title\": \"雷军称去年每卖七部手机就有一部小米\", \"url\": \"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\"}\n     ]\n   }\n }\n ```</li>\n</ul>\n\n<h4>2. <strong>分离前后端</strong></h4>\n\n<ul>\n<li>如果是前后端分离的项目，确保后端只提供数据，前端负责渲染。</li>\n<li>后端返回JSON数据，前端通过AJAX或Fetch API获取数据并动态渲染页面。</li>\n</ul>\n\n<h4>3. <strong>检查请求目标</strong></h4>\n\n<ul>\n<li>如果你在爬取网页，确保目标URL是正确的，并且你只提取需要的数据（如标题、链接等），而不是整个HTML页面。</li>\n<li>使用工具（如BeautifulSoup、Cheerio）解析HTML，提取所需内容。</li>\n</ul>\n\n<h4>4. <strong>优化前端渲染</strong></h4>\n\n<ul>\n<li>如果确实需要返回HTML，确保只返回必要的部分，而不是整个页面。</li>\n<li>示例：\n <code>html\n &lt;div class=\"topic-item\"&gt;\n   &lt;span class=\"rank\"&gt;1&lt;/span&gt;\n   &lt;a href=\"https://s.weibo.com/weibo?q=发放育儿补贴\" class=\"title\"&gt;发放育儿补贴&lt;/a&gt;\n &lt;/div&gt;\n</code></li>\n</ul>\n\n<h4>5. <strong>使用缓存</strong></h4>\n\n<ul>\n<li>如果前端代码是静态的，可以通过缓存（如CDN）减少重复请求。</li>\n<li>对于动态数据，使用缓存策略（如Redis）减少后端压力。</li>\n</ul>\n\n<h4>6. <strong>压缩和优化资源</strong></h4>\n\n<ul>\n<li>压缩HTML、CSS、JavaScript文件，减少传输体积。</li>\n<li>使用工具（如Webpack、Vite）打包和优化前端资源。</li>\n</ul>\n\n<h4>7. <strong>错误处理</strong></h4>\n\n<ul>\n<li>如果API返回了错误的数据格式（如HTML），前端应检测并处理错误。</li>\n<li>示例：\n <code>javascript\n fetch('/api/data')\n   .then(response =&gt; {\n     if (!response.ok) {\n       throw new Error('Network response was not ok');\n     }\n     return response.json();\n   })\n   .then(data =&gt; {\n     console.log(data);\n   })\n   .catch(error =&gt; {\n     console.error('Error:', error);\n   });\n</code></li>\n</ul>\n\n<hr />\n\n<h3>示例优化</h3>\n\n<p>假设你从微博热搜榜获取数据，原始返回的是HTML页面，你可以优化为：</p>\n\n<h4>后端返回JSON数据：</code></pre>json</h4>\n\n<p>{\n  \"topics\": [\n    {\"rank\": 1, \"title\": \"发放育儿补贴\", \"url\": \"https://s.weibo.com/weibo?q=发放育儿补贴\"},\n    {\"rank\": 2, \"title\": \"雷军称去年每卖七部手机就有一部小米\", \"url\": \"https://s.weibo.com/weibo?q=雷军称去年每卖七部手机就有一部小米\"}\n  ]\n}\n<pre><code class=\"language-plaintext\"></p>\n\n<h4>前端渲染：</code></pre>javascript</h4>\n\n<p>fetch('/api/weibo-hot')\n  .then(response =&gt; response.json())\n  .then(data =&gt; {\n    const topicList = document.getElementById('topic-list');\n    data.topics.forEach(topic =&gt; {\n      const item = document.createElement('div');\n      item.className = 'topic-item';\n      item.innerHTML = <code>\n        &lt;span class=\"rank\"&gt;${topic.rank}&lt;/span&gt;\n        &lt;a href=\"${topic.url}\" class=\"title\"&gt;${topic.title}&lt;/a&gt;\n</code>;\n      topicList.appendChild(item);\n    });\n  });\n```</p>\n\n<hr />\n\n<h3>总结</h3>\n\n<ul>\n<li><strong>明确数据格式</strong>：确保API返回的是结构化数据（如JSON）。</li>\n<li><strong>分离前后端</strong>：后端提供数据，前端负责渲染。</li>\n<li><strong>优化请求和渲染</strong>：只请求和渲染必要的数据。</li>\n</ul>\n\n<hr />\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-05T17:19:30.286275"
+      }
+    ],
+    "model": "deepseek-chat-v3"
+  },
+  "43": {
+    "id": "43",
+    "title": "1",
+    "timestamp": "2025-03-06T09:54:15.575630",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T09:53:46.332601"
+      },
+      {
+        "message": "<p>获取热搜数据失败：The request failed: Google returned a response with code 404</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T09:53:47.467536"
+      },
+      {
+        "message": "今日头条",
+        "type": "user",
+        "timestamp": "2025-03-06T09:54:15.575599"
+      },
+      {
+        "message": "<p>要获取今日头条的热搜数据，您可以访问今日头条的官方网站或使用其官方应用程序。通常，这些平台会有一个专门的板块展示当前的热搜新闻和话题。如果您需要实时的热搜信息，请确保您的设备连接到互联网，并直接访问今日头条平台以获取最新数据。由于我无法直接访问外部网站或实时数据，我建议您直接查看今日头条以获取最新的热搜信息。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T09:54:26.201009"
+      }
+    ],
+    "model": "deepseek-chat-v3"
+  },
+  "44": {
+    "id": "44",
+    "title": "1",
+    "timestamp": "2025-03-06T09:56:38.216841",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T09:56:38.215337"
+      },
+      {
+        "message": "<p>当前微博热搜：</p>\n\n<p>当前头条热搜：</p>\n\n<ol>\n<li>卢卡申科：中国不想要战争</li>\n<li>稳住楼市股市首次写进政府工作报告</li>\n<li>十大工作任务！今年要干这些事</li>\n<li>退役士兵穿军装捧鲜花回小学赴约</li>\n<li>巴黎世家2700元发卡义乌几块钱一斤</li>\n<li>政府工作报告：坚持过紧日子</li>\n<li>女生退税4190元惊呼巨款</li>\n<li>美正重新考虑为乌提供资金</li>\n<li>政府工作报告里提到的新词热词</li>\n<li>城乡居民基础养老金最低标准提高20元</li>\n</ol>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T09:56:39.072462"
+      }
+    ],
+    "model": "rockettrend"
+  },
+  "45": {
+    "id": "45",
+    "title": "1",
+    "timestamp": "2025-03-06T10:00:10.890634",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T09:59:16.842365"
+      },
+      {
+        "message": "<p>当前微博热搜：</p>\n\n<p>当前头条热搜：</p>\n\n<ol>\n<li>卢卡申科：中国不想要战争</li>\n<li>稳住楼市股市首次写进政府工作报告</li>\n<li>十大工作任务！今年要干这些事</li>\n<li>退役士兵穿军装捧鲜花回小学赴约</li>\n<li>巴黎世家2700元发卡义乌几块钱一斤</li>\n<li>政府工作报告：坚持过紧日子</li>\n<li>女生退税4190元惊呼巨款</li>\n<li>美正重新考虑为乌提供资金</li>\n<li>政府工作报告里提到的新词热词</li>\n<li>雷军一出场就被围住走不动路</li>\n</ol>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T09:59:17.695679"
+      },
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T10:00:10.890622"
+      },
+      {
+        "message": "<p>当前微博热搜：</p>\n\n<p>当前头条热搜：</p>\n\n<ol>\n<li><a href=\"https://www.toutiao.com/search/?keyword=卢卡申科：中国不想要战争\" target=\"_blank\">卢卡申科：中国不想要战争</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=稳住楼市股市首次写进政府工作报告\" target=\"_blank\">稳住楼市股市首次写进政府工作报告</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=十大工作任务！今年要干这些事\" target=\"_blank\">十大工作任务！今年要干这些事</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=退役士兵穿军装捧鲜花回小学赴约\" target=\"_blank\">退役士兵穿军装捧鲜花回小学赴约</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=巴黎世家2700元发卡义乌几块钱一斤\" target=\"_blank\">巴黎世家2700元发卡义乌几块钱一斤</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=“稳住楼市”推多项突破性政策\" target=\"_blank\">“稳住楼市”推多项突破性政策</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=女生退税4190元惊呼巨款\" target=\"_blank\">女生退税4190元惊呼巨款</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告：坚持过紧日子\" target=\"_blank\">政府工作报告：坚持过紧日子</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告里提到的新词热词\" target=\"_blank\">政府工作报告里提到的新词热词</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=美正重新考虑为乌提供资金\" target=\"_blank\">美正重新考虑为乌提供资金</a></li>\n</ol>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:00:11.567041"
+      }
+    ],
+    "model": "rockettrend"
+  },
+  "46": {
+    "id": "46",
+    "title": "1",
+    "timestamp": "2025-03-06T10:04:20.109499",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T10:04:20.108407"
+      },
+      {
+        "message": "<p>当前微博热搜：</p>\n\n<ol>\n<li><a href=\"https://s.weibo.com/weibo?q=全国物业费大跳水意味着什么\" target=\"_blank\">全国物业费大跳水意味着什么</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=建议孩子违法家长必须赔偿被害人\" target=\"_blank\">建议孩子违法家长必须赔偿被害人</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=政府工作报告里的创新关键词\" target=\"_blank\">政府工作报告里的创新关键词</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=退税\" target=\"_blank\">退税</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=两会\" target=\"_blank\">两会</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=张晚意 古装\" target=\"_blank\">张晚意 古装</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=靳东两会建议AI换脸立法\" target=\"_blank\">靳东两会建议AI换脸立法</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=乌克兰法令仍禁止泽连斯基与俄会谈\" target=\"_blank\">乌克兰法令仍禁止泽连斯基与俄会谈</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=我是虞书欣我同意国王开播\" target=\"_blank\">我是虞书欣我同意国王开播</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=什么是瞪羚企业\" target=\"_blank\">什么是瞪羚企业</a></li>\n</ol>\n\n<p>当前头条热搜：</p>\n\n<ol>\n<li><a href=\"https://www.toutiao.com/search/?keyword=卢卡申科：中国不想要战争\" target=\"_blank\">卢卡申科：中国不想要战争</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=稳住楼市股市首次写进政府工作报告\" target=\"_blank\">稳住楼市股市首次写进政府工作报告</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=十大工作任务！今年要干这些事\" target=\"_blank\">十大工作任务！今年要干这些事</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=退役士兵穿军装捧鲜花回小学赴约\" target=\"_blank\">退役士兵穿军装捧鲜花回小学赴约</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=巴黎世家2700元发卡义乌几块钱一斤\" target=\"_blank\">巴黎世家2700元发卡义乌几块钱一斤</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告：坚持过紧日子\" target=\"_blank\">政府工作报告：坚持过紧日子</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=女生退税4190元惊呼巨款\" target=\"_blank\">女生退税4190元惊呼巨款</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=“稳住楼市”推多项突破性政策\" target=\"_blank\">“稳住楼市”推多项突破性政策</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告里提到的新词热词\" target=\"_blank\">政府工作报告里提到的新词热词</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=男子花15元中了1800万\" target=\"_blank\">男子花15元中了1800万</a></li>\n</ol>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:04:20.738310"
+      }
+    ],
+    "model": "rockettrend"
+  },
+  "47": {
+    "id": "47",
+    "title": "1",
+    "timestamp": "2025-03-06T10:21:09.638404",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T10:20:04.621191"
+      },
+      {
+        "message": "<p>当前微博热搜：</p>\n\n<ol>\n<li><a href=\"https://s.weibo.com/weibo?q=建议孩子违法家长必须赔偿被害人\" target=\"_blank\">建议孩子违法家长必须赔偿被害人</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=两会\" target=\"_blank\">两会</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=政府工作报告里的创新关键词\" target=\"_blank\">政府工作报告里的创新关键词</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=退税\" target=\"_blank\">退税</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=全国物业费大跳水意味着什么\" target=\"_blank\">全国物业费大跳水意味着什么</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=靳东两会建议AI换脸立法\" target=\"_blank\">靳东两会建议AI换脸立法</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=张晚意 古装\" target=\"_blank\">张晚意 古装</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=建议关注教师心理健康问题\" target=\"_blank\">建议关注教师心理健康问题</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=我是虞书欣我同意国王开播\" target=\"_blank\">我是虞书欣我同意国王开播</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=建议提高基层医护人员薪酬\" target=\"_blank\">建议提高基层医护人员薪酬</a></li>\n</ol>\n\n<p>当前头条热搜：</p>\n\n<ol>\n<li><a href=\"https://www.toutiao.com/search/?keyword=卢卡申科：中国不想要战争\" target=\"_blank\">卢卡申科：中国不想要战争</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=稳住楼市股市首次写进政府工作报告\" target=\"_blank\">稳住楼市股市首次写进政府工作报告</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=十大工作任务！今年要干这些事\" target=\"_blank\">十大工作任务！今年要干这些事</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=巴黎世家2700元发卡义乌几块钱一斤\" target=\"_blank\">巴黎世家2700元发卡义乌几块钱一斤</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=退役士兵穿军装捧鲜花回小学赴约\" target=\"_blank\">退役士兵穿军装捧鲜花回小学赴约</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告：坚持过紧日子\" target=\"_blank\">政府工作报告：坚持过紧日子</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=女生退税4190元惊呼巨款\" target=\"_blank\">女生退税4190元惊呼巨款</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=“稳住楼市”推多项突破性政策\" target=\"_blank\">“稳住楼市”推多项突破性政策</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告里提到的新词热词\" target=\"_blank\">政府工作报告里提到的新词热词</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=靳东两会建议AI换脸立法\" target=\"_blank\">靳东两会建议AI换脸立法</a></li>\n</ol>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:20:05.314187"
+      },
+      {
+        "message": "这是在开两会？",
+        "type": "user",
+        "timestamp": "2025-03-06T10:20:13.120696"
+      },
+      {
+        "message": "<p>是的，当前中国正在召开全国人民代表大会（简称“人大”）和中国人民政治协商会议（简称“政协”），这两个会议通常被合称为“两会”。两会是中国政治生活中的重要事件，每年都会吸引全国乃至国际社会的广泛关注。在两会期间，代表和委员们会讨论国家的发展计划、政策方向以及法律法规等重要议题，同时也会提出各种建议和提案，以促进国家的长远发展和人民的福祉。从您提供的热搜内容来看，两会期间的热点话题涉及到了教育、医疗、经济、科技等多个领域，反映了社会各界对于国家未来发展的关切和期待。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:20:29.270059"
+      },
+      {
+        "message": "最近有什么新议题",
+        "type": "user",
+        "timestamp": "2025-03-06T10:21:09.638375"
+      },
+      {
+        "message": "<p>根据提供的微博和头条热搜内容，以下是近期两会期间引发热议的新议题及社会关注焦点：</p>\n\n<hr />\n\n<h3><strong>一、法律与社会治理</strong></h3>\n\n<ol>\n<li><p><strong>「未成年人违法家长需赔偿」</strong> <br />\n有代表建议明确未成年人违法时家长需承担民事赔偿责任，旨在强化家庭教育责任，减少未成年人犯罪问题，引发公众对家庭监管与法律责任的讨论。</p></li>\n<li><p><strong>「AI换脸技术立法」</strong> <br />\n演员靳东提案呼吁对AI换脸技术进行立法监管，防止技术滥用导致的肖像权侵犯、诈骗等问题，反映科技快速发展下的法律空白亟待填补。</p></li>\n</ol>\n\n<hr />\n\n<h3><strong>二、经济政策调整</strong></h3>\n\n<ol>\n<li><p><strong>「稳住楼市与股市」</strong> <br />\n“稳住楼市股市”首次写入政府工作报告，提出多项突破性政策（如优化限购、支持房企融资），释放政府稳定金融市场、提振消费信心的信号。</p></li>\n<li><p><strong>「退税政策热议」</strong> <br />\n个税退税成为民生热点，例如“女生退税4190元”登上热搜，体现公众对税收优惠政策的关注，也反映政策对个人可支配收入的直接影响。</p></li>\n<li><p><strong>「物业费大幅下调」</strong> <br />\n全国多地物业费“大跳水”，可能关联政府规范物业服务收费、减轻居民生活成本的举措，但也引发对物业服务质量可持续性的担忧。</p></li>\n</ol>\n\n<hr />\n\n<h3><strong>三、科技创新与发展</strong></h3>\n\n<ul>\n<li><strong>「政府工作报告中的创新关键词」</strong> <br />\n两会报告强调数字经济、人工智能、绿色技术等方向，提出加大研发投入、完善创新生态，明确科技自立自强为国家战略核心。</li>\n</ul>\n\n<hr />\n\n<h3><strong>四、教育与医疗改革</strong></h3>\n\n<ol>\n<li><p><strong>「教师心理健康问题」</strong> <br />\n代表建议关注教师群体心理压力，推动建立心理支持体系，呼应“双减”背景下教师工作负担加重的现实挑战。</p></li>\n<li><p><strong>「基层医护人员薪酬提升」</strong> <br />\n提案呼吁提高基层医疗人员待遇，以稳定基层医疗队伍，改善偏远地区医疗资源短缺问题。</p></li>\n</ol>\n\n<hr />\n\n<h3><strong>五、民生与社会热点</strong></h3>\n\n<ul>\n<li><strong>「巴黎世家高价发卡争议」</strong> <br />\n奢侈品牌发卡价格与义乌小商品价差巨大，引发对品牌溢价、消费观念及知识产权保护的讨论，折射公众对“智商税”现象的反思。</li>\n</ul>\n\n<hr />\n\n<h3><strong>六、国际关系与舆论</strong></h3>\n\n<ul>\n<li><strong>「卢卡申科：中国不想要战争」</strong> <br />\n白俄罗斯总统表态支持中国和平立场，反映国际社会对中国在俄乌冲突等议题中角色的关注，以及中国维护全球稳定的外交形象。</li>\n</ul>\n\n<hr />\n\n<h3><strong>总结</strong></h3>\n\n<p>两会期间议题涵盖法律、经济、科技、民生等多元领域，既聚焦政策调整（如楼市、税收），也回应社会痛点（如教育医疗、技术伦理）。这些讨论不仅影响政策制定，也折射出公众对公平、安全、生活质量提升的普遍期待。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:22:33.770768",
+        "reasoning_content": "好的，我需要分析用户的问题“最近有什么新议题”，结合之前提供的微博和头条热搜数据来回答。首先，用户之前问过是否在开两会，现在可能想了解两会期间有哪些新提出的议题或热点话题。\n\n看一下微博热搜的前几条，比如第一条“建议孩子违法家长必须赔偿被害人”，这应该是一个法律相关的提案，可能涉及未成年人犯罪和家长责任。接下来还有关于政府工作报告里的创新关键词、退税、物业费变化、AI换脸立法、教师心理健康、基层医护人员薪酬等，这些都是两会期间讨论的议题。\n\n头条热搜里，卢卡申科的言论关于中国不想要战争，这可能与国际关系有关。稳住楼市股市首次写入政府工作报告，说明经济政策有新的重点。巴黎世家发卡的价格差异可能涉及消费或知识产权问题，退役士兵的故事可能属于社会正能量内容，但不算新政策。其他如坚持过紧日子、退税金额等也是经济相关的议题。\n\n需要将这些内容分类整理，比如法律、经济、科技、教育、医疗等。同时要注意用户可能想知道这些议题的背景和影响，比如靳东建议的AI换脸立法，可能需要解释当前AI技术的应用和潜在风险。还有像退税和物业费变化，这些都是民生问题，用户可能关心对个人的影响。\n\n另外要注意用户可能对某些议题不太了解，需要简要说明。例如，政府工作报告中的“十大工作任务”具体是什么，但根据提供的数据，具体内容可能没有详细列出，所以可能需要保持概括。同时，要避免猜测，只基于提供的数据。\n\n需要确保回答结构清晰，每个议题点明主题，简要说明内容或背景，可能的影响或意义。比如提到“稳住楼市股市”首次写入报告，说明政府在经济方面的稳定措施，反映当前经济形势和政策方向。\n\n还要注意重复的议题，比如靳东的建议在微博和头条都有出现，需合并说明。另外，退税在微博和头条都有提及，说明这是热门话题，可能涉及个人所得税政策调整，影响个人财务。\n\n总结下来，回答的结构应该是分点列出各个新议题，每个议题下简要介绍内容和意义。可能需要分为法律、经济政策、科技创新、民生问题、教育与医疗、社会文化等类别，或者按热搜条目逐条解释，但更清晰的方式是按主题分类。"
+      }
+    ],
+    "model": "deepseek-chat-r1"
+  },
+  "48": {
+    "id": "48",
+    "title": "1",
+    "timestamp": "2025-03-06T10:28:32.775077",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T10:28:32.774678"
+      },
+      {
+        "message": "<p>当前微博热搜：</p>\n\n<ol>\n<li><a href=\"https://s.weibo.com/weibo?q=建议孩子违法家长必须赔偿被害人\" target=\"_blank\">建议孩子违法家长必须赔偿被害人</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=两会\" target=\"_blank\">两会</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=政府工作报告里的创新关键词\" target=\"_blank\">政府工作报告里的创新关键词</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=本田首款高端纯电SUV上市\" target=\"_blank\">本田首款高端纯电SUV上市</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=靳东两会建议AI换脸立法\" target=\"_blank\">靳东两会建议AI换脸立法</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=退税\" target=\"_blank\">退税</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=建议关注教师心理健康问题\" target=\"_blank\">建议关注教师心理健康问题</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=张晚意 古装\" target=\"_blank\">张晚意 古装</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=乌克兰法令仍禁止泽连斯基与俄会谈\" target=\"_blank\">乌克兰法令仍禁止泽连斯基与俄会谈</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=我是虞书欣我同意国王开播\" target=\"_blank\">我是虞书欣我同意国王开播</a></li>\n</ol>\n\n<p>当前头条热搜：</p>\n\n<ol>\n<li><a href=\"https://www.toutiao.com/search/?keyword=卢卡申科：中国不想要战争\" target=\"_blank\">卢卡申科：中国不想要战争</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=稳住楼市股市首次写进政府工作报告\" target=\"_blank\">稳住楼市股市首次写进政府工作报告</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=十大工作任务！今年要干这些事\" target=\"_blank\">十大工作任务！今年要干这些事</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=巴黎世家2700元发卡义乌几块钱一斤\" target=\"_blank\">巴黎世家2700元发卡义乌几块钱一斤</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=退役士兵穿军装捧鲜花回小学赴约\" target=\"_blank\">退役士兵穿军装捧鲜花回小学赴约</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=朱征夫代表建言趋利性执法司法整治\" target=\"_blank\">朱征夫代表建言趋利性执法司法整治</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告：坚持过紧日子\" target=\"_blank\">政府工作报告：坚持过紧日子</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=“稳住楼市”推多项突破性政策\" target=\"_blank\">“稳住楼市”推多项突破性政策</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告里提到的新词热词\" target=\"_blank\">政府工作报告里提到的新词热词</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=美正重新考虑为乌提供资金\" target=\"_blank\">美正重新考虑为乌提供资金</a></li>\n</ol>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:28:33.389192"
+      }
+    ],
+    "model": "rockettrend"
+  },
+  "49": {
+    "id": "49",
+    "title": "1",
+    "timestamp": "2025-03-06T10:33:53.337703",
+    "messages": [
+      {
+        "message": "1",
+        "type": "user",
+        "timestamp": "2025-03-06T10:32:59.361400"
+      },
+      {
+        "message": "<div class='hot-trends-section weibo-trends'>\n<h2 class='hot-trends-title'>当前微博热搜</h2>\n<ol class='hot-trends-list'>\n<li><a href=\"https://s.weibo.com/weibo?q=建议孩子违法家长必须赔偿被害人\" target=\"_blank\" class='hot-trend-item'>建议孩子违法家长必须赔偿被害人</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=建议关注教师心理健康问题\" target=\"_blank\" class='hot-trend-item'>建议关注教师心理健康问题</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=政府工作报告里的创新关键词\" target=\"_blank\" class='hot-trend-item'>政府工作报告里的创新关键词</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=靳东两会建议AI换脸立法\" target=\"_blank\" class='hot-trend-item'>靳东两会建议AI换脸立法</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=退税\" target=\"_blank\" class='hot-trend-item'>退税</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=两会\" target=\"_blank\" class='hot-trend-item'>两会</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=张晚意 古装\" target=\"_blank\" class='hot-trend-item'>张晚意 古装</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=乌克兰法令仍禁止泽连斯基与俄会谈\" target=\"_blank\" class='hot-trend-item'>乌克兰法令仍禁止泽连斯基与俄会谈</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=我是虞书欣我同意国王开播\" target=\"_blank\" class='hot-trend-item'>我是虞书欣我同意国王开播</a></li>\n<li><a href=\"https://s.weibo.com/weibo?q=建议提高基层医护人员薪酬\" target=\"_blank\" class='hot-trend-item'>建议提高基层医护人员薪酬</a></li>\n</ol>\n</div>\n\n<div class='hot-trends-section toutiao-trends'>\n<h2 class='hot-trends-title'>当前头条热搜</h2>\n<ol class='hot-trends-list'>\n<li><a href=\"https://www.toutiao.com/search/?keyword=卢卡申科：中国不想要战争\" target=\"_blank\" class='hot-trend-item'>卢卡申科：中国不想要战争</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=稳住楼市股市首次写进政府工作报告\" target=\"_blank\" class='hot-trend-item'>稳住楼市股市首次写进政府工作报告</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=十大工作任务！今年要干这些事\" target=\"_blank\" class='hot-trend-item'>十大工作任务！今年要干这些事</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=巴黎世家2700元发卡义乌几块钱一斤\" target=\"_blank\" class='hot-trend-item'>巴黎世家2700元发卡义乌几块钱一斤</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=退役士兵穿军装捧鲜花回小学赴约\" target=\"_blank\" class='hot-trend-item'>退役士兵穿军装捧鲜花回小学赴约</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告：坚持过紧日子\" target=\"_blank\" class='hot-trend-item'>政府工作报告：坚持过紧日子</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=“稳住楼市”推多项突破性政策\" target=\"_blank\" class='hot-trend-item'>“稳住楼市”推多项突破性政策</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=美正重新考虑为乌提供资金\" target=\"_blank\" class='hot-trend-item'>美正重新考虑为乌提供资金</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=政府工作报告里提到的新词热词\" target=\"_blank\" class='hot-trend-item'>政府工作报告里提到的新词热词</a></li>\n<li><a href=\"https://www.toutiao.com/search/?keyword=霍启刚：香港饮水要思源\" target=\"_blank\" class='hot-trend-item'>霍启刚：香港饮水要思源</a></li>\n</ol>\n</div>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:32:59.863374"
+      },
+      {
+        "message": "头条热搜第一，这个人是谁，",
+        "type": "user",
+        "timestamp": "2025-03-06T10:33:53.337676"
+      },
+      {
+        "message": "<p>头条热搜第一提到的“卢卡申科”是白俄罗斯的总统亚历山大·格里戈里耶维奇·卢卡申科（Alexander Grigoryevich Lukashenko）。他自1994年起担任白俄罗斯总统，是该国历史上首位也是迄今为止唯一一位总统。卢卡申科以其长期执政和对内政外交的强硬立场而闻名，他在国际舞台上经常发表关于国际关系和地区安全的观点。在提到的热搜中，他表达了对中国不想要战争的看法，这反映了中国在国际事务中追求和平与稳定的立场。</p>\n",
+        "type": "assistant",
+        "format": "html",
+        "timestamp": "2025-03-06T10:34:05.420408"
+      }
+    ],
+    "model": "deepseek-chat-v3"
   }
 }
